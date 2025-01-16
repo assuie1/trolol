@@ -8,7 +8,7 @@ const titles = [
 
 function changeTitle() {
     const randomTitle = titles[Math.floor(Math.random() * titles.length)];
-    document.getElementById("title").textContent = randomTitle;
+    document.getElementById("title").textContent = "porn";
 }
 
 setInterval(() => {
